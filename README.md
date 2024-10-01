@@ -25,8 +25,4 @@ The Everyday Debate is dedicated to provide a platform for all kinds of debate, 
 The Everyday Debate is manipulated on my local laptop, and then deployed onto the `i6` server with the usage of `class-mongodb.nyu.edu` in NYU. The link is
 https://i6.cims.nyu.edu/~wx2056/web-app-Zachary-Wenhao2.0/flask.cgi. 
 
-## About this workshop
-This web app workshop is a one-person assignment. I solely accomplish the setup and constrcution of this app. Please grade accordingly~
-|Full Name|NetID|
-|:---|:---|
-|Wenhao Xu|wx2056|
+
